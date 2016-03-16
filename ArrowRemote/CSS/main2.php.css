@@ -5,6 +5,8 @@ ul.navbar {
     padding: 0;
     overflow: hidden;
     background-color: rgba(38, 12, 12, 0.56);
+    border-left: 0px;
+    border-right: 0px;
 }
 * {
     font-family: sans-serif;
