@@ -88,4 +88,5 @@ p.currentshout {
 
 form {
     float: left;
+    display: inline;
 }
