@@ -90,9 +90,10 @@ p.currentshout {
   border-radius: 0px;
   text-align: center;
   width: 1500px;
-  height: 40px;
+  height: 60px;
   padding: 0px 0px 0px 0px;
   left: 0;
+  position: absolute;
 }
 
 body {
