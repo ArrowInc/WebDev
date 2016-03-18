@@ -82,7 +82,7 @@ a.anl {
 }
 p.currentshout {
   color: white;
-  background: white;
+  background: rgba(63, 191, 76, 0.9);
   font-size: 15 px;  
   font-family: helvetica;
   border: 2px;
