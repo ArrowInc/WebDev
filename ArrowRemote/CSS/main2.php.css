@@ -74,17 +74,17 @@ a.anl {
   
 }
 p.currentshout {
-  color: rgba(63, 191, 76, 0.9);
+  color: light grey;
   background: white;
   font-size: 15 px;  
-  font-family: sans-serif;
+  font-family: helvetica;
   border: 2px;
   border-color: rgba(63, 191, 76, 0.9);
   border-radius: 5px;
   text-align: left;
   max-width: 800px;
-  height: 30px;
-  padding: 0px 30px 8px 0px;
+  height: 40px;
+  padding: 0px 40px 0px 0px;
 }
 
 body {
