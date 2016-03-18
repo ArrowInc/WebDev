@@ -70,11 +70,11 @@ a.anl {
   border: 0px;
   border-radius: 5px;
   text-align: center;
-  height: 20px
+  height: 20px;
   
 }
 p.currentshout {
-  color: black;
+  color: rgba(63, 191, 76, 0.9);
   background: white;
   font-size: 15 px;  
   font-family: sans-serif;
@@ -84,7 +84,7 @@ p.currentshout {
   text-align: left;
   max-width: 800px;
   height: 30px;
-  padding: 0px 20px 2px 0px;
+  padding: 0px 30px 8px 0px;
 }
 
 body {
