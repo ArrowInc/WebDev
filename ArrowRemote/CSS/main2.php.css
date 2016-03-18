@@ -76,7 +76,7 @@ a.anl {
   
 }
 p.currentshout {
-  color: light grey;
+  color: black;
   background: white;
   font-size: 15 px;  
   font-family: helvetica;
@@ -94,3 +94,6 @@ body {
     background-size: cover;
 }
 
+form {
+    color: white;
+}
