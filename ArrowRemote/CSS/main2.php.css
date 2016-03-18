@@ -62,7 +62,6 @@ font-family: sans-serif;
 font-size: 20px;
 }
 a.anl {
-  float: left;
   display: inline;
   color: white;
   background: rgba(63, 191, 76, 0.9);
@@ -85,5 +84,8 @@ p.currentshout {
   text-align: left;
   max-width: 800px;
   height: 30px;
-  
+}
+
+form {
+    font-size: 100px;
 }
