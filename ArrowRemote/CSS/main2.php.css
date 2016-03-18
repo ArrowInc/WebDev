@@ -59,11 +59,10 @@ color: black;
 }
 p {
 font-family: sans-serif;
-font-size: 10px;
+font-size: 20px;
 }
 a.anl {
-  list-style-type: square;
-  display: inline;
+  display: block;
   color: white;
   background: rgba(63, 191, 76, 0.9);
   font-size: 8px;  
