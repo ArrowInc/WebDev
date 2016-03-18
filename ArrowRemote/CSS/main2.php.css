@@ -65,22 +65,25 @@ a.anl {
   display: inline;
   color: white;
   background: rgba(63, 191, 76, 0.9);
-  font-size: 15px;  
+  font-size: 8px;  
   font-family: sans-serif;
   border: 0px;
   border-radius: 5px;
   text-align: center;
+  height: 20px
+  width: 40px;
   
 }
 p.currentshout {
-  color: white;
-  background: rgba(63, 191, 76, 0.9);
-  font-size: 15px;  
+  color: black;
+  background: white;
+  font-size: 15 px;  
   font-family: sans-serif;
-  border: 0px;
+  border: 2px;
+  border-color: rgba(63, 191, 76, 0.9);
   border-radius: 5px;
   text-align: left;
-  max-width: 200px;
-  height: 20px;
+  max-width: 800px;
+  height: 30px;
   
 }
