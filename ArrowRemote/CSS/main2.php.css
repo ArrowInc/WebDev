@@ -33,6 +33,7 @@ article {
 font-family: sans-serif;
 font-size: 40px;
 padding: 70px 0px 50px 0px;
+color: white;
 }
 input[type="submit"] {
   cursor: pointer;
@@ -60,6 +61,7 @@ color: black;
 p {
 font-family: sans-serif;
 font-size: 20px;
+color: white;
 }
 a.anl {
   display: inline;
