@@ -59,7 +59,7 @@ color: black;
 }
 p {
 font-family: sans-serif;
-font-size: 20px;
+font-size: 10px;
 }
 a.anl {
   display: inline;
@@ -71,7 +71,6 @@ a.anl {
   border-radius: 5px;
   text-align: center;
   height: 20px
-  padding: 50px 0px 50px 0px;
   
 }
 p.currentshout {
