@@ -1,1 +1,49 @@
 
+input[type="submit"] {
+  width: 90px;
+  height: 30px;
+  color: white;
+  background: rgba(63, 191, 76, 0.9);
+  font-size: 15px;  
+  font-family: Slim Joe;
+  border: 0px;
+  border-radius: 5px;
+  text-align: center;
+}
+  div {
+  font-family: PRIMETIME;
+  color: rgba(255, 255, 255, 0.54);
+  text-align: center;
+  }  
+  img {
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  }
+  input[type="password"] {
+  color: black;
+  height: 30px;
+  width: 270px;
+  background: white;
+  font-size: 15px;
+  font-family: Century Gothic;
+  border: 0px;
+  border-radius: 5px;
+  text-align: left;
+  }
+   input[type="text"] {
+  color: black;
+  height: 30px;
+  width: 270px;
+  background: white;
+  font-size: 15px;
+  font-family: Century Gothic;
+  border: 0px;
+  border-radius: 5px;
+  text-align: left;
+  }
