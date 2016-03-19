@@ -95,7 +95,7 @@ p.currentshout {
 }
 
 body {
-    background: url("http://i.imgur.com/e75vSfZ.png") no-repeat; // Original: http://i.imgur.com/FfmXuZd.png
+    background: url("http://i.imgur.com/e75vSfZ.png") no-repeat; /* Original: http://i.imgur.com/FfmXuZd.png */
     background-size: cover;
 }
 
