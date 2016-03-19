@@ -24,7 +24,7 @@ input[type="submit"] {
   font-family: Century Gothic;
   border: 0px;
   border-radius: 5px;
-  text-align: left;
+  text-align: center;
   }
    input[type="text"] {
   color: black;
@@ -35,7 +35,7 @@ input[type="submit"] {
   font-family: Century Gothic;
   border: 0px;
   border-radius: 5px;
-  text-align: left;
+  text-align: center;
   }
   
   body {
