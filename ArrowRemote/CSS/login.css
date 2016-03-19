@@ -42,3 +42,8 @@ input[type="submit"] {
     background: url("http://i.imgur.com/MAO1diF.png");
     background-size: cover;
   }
+
+* {
+  color: white;
+  font-family: PRIMETIME;
+}
