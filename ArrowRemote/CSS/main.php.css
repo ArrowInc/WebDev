@@ -146,6 +146,9 @@ select {
  padding: 5px 5px 5px 5px;
  border-radius: 10px;
 }
+select option {
+    color: black;
+}
 /*option {
  background-color: white;
  color: black;
