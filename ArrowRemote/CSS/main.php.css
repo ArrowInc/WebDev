@@ -13,6 +13,8 @@ ul.navbar {
 }
 * {
     font-family: sans-serif;
+}
+*:not(.do-not-color){
     color: white;
 }
 
