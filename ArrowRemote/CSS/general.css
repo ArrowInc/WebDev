@@ -2,4 +2,4 @@
 	General CSS that applies to all pages will be here. It will be put BEFORE the page-specific one, so it can be overwriten.
 */
 
-a{color:white;text-decoration:none;} .Arial{font-family:Arial} .Monospace{font-family:Monospace} input{outline:none} .cursor-pointer{cursor:pointer;}
+a{color:white;text-decoration:none;} .Arial{font-family:Arial} .Monospace{font-family:Monospace} *{outline:none} .cursor-pointer{cursor:pointer;}
