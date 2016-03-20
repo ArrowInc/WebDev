@@ -132,3 +132,12 @@ form {
 :-ms-input-placeholder {  
    text-align: center;  
 }
+
+#toggleDeclareAlertLevel {
+    color: grey;
+}
+#toggleDeclareAlertLevel:hover {
+    color: lightgrey;
+}
+}
+}
