@@ -14,7 +14,7 @@ ul.navbar {
 * {
     font-family: sans-serif;
 }
-*:not(.do-not-color){
+*:not(select){
     color: white;
 }
 
