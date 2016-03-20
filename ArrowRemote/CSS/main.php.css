@@ -134,7 +134,7 @@ form {
 }
 
 #toggleDeclareAlertLevel {
-    color: LightGray;
+    color: grey;
 }
 #toggleDeclareAlertLevel:hover {
     color: lightgray;
