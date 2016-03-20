@@ -1,1 +1,40 @@
-a.al{color:blue;} .Arial{font-family:Arial} .Monospace{font-family:Monospace}
+/*
+<!DOCTYPE HTML><html><head><title>Arrow Games' In-Game Log</title>
+<link rel="apple-touch-icon" sizes="57x57" href="internal/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="internal/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="internal/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="internal/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="internal/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="internal/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="internal/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="internal/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="internal/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="internal/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="internal/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="internal/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="internal/favicons/favicon-16x16.png">
+<link rel="manifest" href="internal/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="internal/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+</head><body class='Arial'>
+<div class='Arial'>
+Welcome, <strong>$user</strong>
+<br>
+Actions:&nbsp;&nbsp;
+<a class='al' href='$uri&DoAction=1'>Main Page</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a class='al' href='$uri&DoAction=2'>ArrowRemote Log</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a class='al' href='$uri&DoAction=3'>Logout</a>
+<br><hr><br>
+</div>
+<form action='' method='post'>
+"<br><p>NOTE: Enter '/clr' to clear the shout</p>
+<label for='shout'>Shout:&nbsp;</label>
+<input type='text' maxlength='' name='shout'>
+<br>
+<input type='submit' name='doShout' value='Shout'>
+*/
+
+
