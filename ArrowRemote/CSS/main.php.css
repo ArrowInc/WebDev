@@ -80,7 +80,7 @@ a.anl {
   height: 20px;
   
 }
-p.currentshout, p.alertlevel {
+p.currentshout {
   color: white;
   background-color: rgba(63, 191, 76, 0.9);
   font-size: 15 px;  
@@ -92,6 +92,20 @@ p.currentshout, p.alertlevel {
   width: 100%;
   height: 5%;
   padding: 1% 0px 1% 0px;
+}
+
+p.alertlevel {
+  color: white;
+  font-size: 15 px;  
+  font-family: helvetica;
+  border: 0px;
+  border-color: rgba(63, 191, 76, 0.9);
+  border-radius: 0px;
+  text-align: center;
+  width: 100%;
+  height: 5%;
+  padding: 1% 0px 1% 0px;
+  cursor: pointer;
 }
 
 body {
