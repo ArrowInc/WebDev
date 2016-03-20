@@ -133,9 +133,9 @@ form {
    text-align: center;  
 }
 
-.grey {
+.toggleDeclareAlertLevel {
     color: grey;
 }
-.lightgray-on-hover:hover {
+.toggleDeclareAlertLevel:hover {
     color: lightgray;
 }
