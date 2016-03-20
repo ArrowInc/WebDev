@@ -146,3 +146,10 @@ select {
  padding: 5px 5px 5px 5px;
  border-radius: 10px;
 }
+option {
+ background-color: white;
+ color: black;
+ border: 1px solid black;
+ padding: 5px 5px 5px 5px;
+ border-radius: 10px;
+}
